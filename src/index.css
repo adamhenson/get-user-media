@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
