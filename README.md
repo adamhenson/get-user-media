@@ -13,6 +13,10 @@ When utilizing [MediaDevices.getUserMedia()](https://developer.mozilla.org/en-US
 - It's not clear what specific change could potentially cause this issue, based on the [release notes](https://developer.apple.com/documentation/safari-release-notes/safari-17_4-release-notes), and if the issue is instead intended.
 - It's not clear if this issue is specific to Safari or from Webkit.
 
+**Repro URL**
+
+- [get-user-media-sage.vercel.app](https://get-user-media-sage.vercel.app/)
+
 **Screen recording**:
 
 https://github.com/adamhenson/get-user-media/assets/747743/2cbab747-8482-4327-9fa8-59c92288c279
