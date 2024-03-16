@@ -14,3 +14,6 @@ When utilizing [MediaDevices.getUserMedia()](https://developer.mozilla.org/en-US
 - It's not clear if this issue is specific to Safari or from Webkit.
 
 **Screen recording**:
+
+https://github.com/adamhenson/get-user-media/assets/747743/2cbab747-8482-4327-9fa8-59c92288c279
+
