@@ -17,7 +17,7 @@ document
 
 function pushState(event) {
   event.target.disabled = true;
-  history.pushState({}, '', '#foo');
+  history.pushState({}, '', '/foo');
 }
 
 document.querySelector('#push-state').addEventListener('click', pushState);
